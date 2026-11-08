@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gallery Wall Spacer</string>
+
+    <string name="cd_logo">Gallery Wall Spacer emblem</string>
+    <string name="cd_home">Wall library</string>
+    <string name="cd_settings">Open eye height settings</string>
+    <string name="cd_save_draft">Save draft and step away</string>
+    <string name="cd_hold">Hold the drag session</string>
+    <string name="cd_decrease">Decrease</string>
+    <string name="cd_increase">Increase</string>
+    <string name="cd_frame">Frame %1$d, %2$d by %3$d centimetres</string>
+
+    <string name="state_ready">Ready to plan</string>
+    <string name="state_selected">Selected</string>
+    <string name="state_not_selected">Not selected</string>
+    <string name="state_saved_wall">Saved wall</string>
+    <string name="state_hung">Hung</string>
+    <string name="state_pending">Pending</string>
+    <string name="state_frame_position">%1$d from left, %2$d from floor</string>
+
+    <string name="splash_title">GALLERY WALL\nSPACER</string>
+    <string name="splash_subtitle">HANG IT STRAIGHT, FIRST TRY</string>
+    <string name="splash_caption">MEASURING THE WALL</string>
+
+    <string name="menu_eyebrow">WALL LIBRARY</string>
+    <string name="menu_title_line1">GALLERY</string>
+    <string name="menu_title_line2">WALL</string>
+    <string name="menu_title_line3">SPACER</string>
+    <string name="menu_tagline">Nail positions for a row, grid or salon cluster, centred at eye height and measured from the left edge and the floor.</string>
+    <string name="menu_hint">Three steps: measure, arrange, mark.</string>
+    <string name="menu_empty">NO SAVED WALLS YET</string>
+    <string name="start_planning">START PLANNING</string>
+    <string name="stat_walls_saved">WALLS SAVED</string>
+    <string name="stat_nails_planned">NAILS PLANNED</string>
+    <string name="wall_summary">%1$d x %2$d cm - %3$d frames</string>
+
+    <string name="setup_title">SET UP THE WALL</string>
+    <string name="section_wall_size">WALL SIZE</string>
+    <string name="section_frame_tray">FRAME TRAY</string>
+    <string name="section_layout_style">LAYOUT STYLE</string>
+    <string name="field_width">WIDTH CM</string>
+    <string name="field_height">HEIGHT CM</string>
+    <string name="field_furniture">SHELF CM</string>
+    <string name="label_adjust">ADJUST</string>
+    <string name="label_size">SIZE</string>
+    <string name="label_drop">DROP</string>
+    <string name="label_gap">GAP</string>
+    <string name="frame_size">%1$d x %2$d</string>
+    <string name="frame_drop">drop %1$d cm</string>
+    <string name="add_frame">ADD FRAME</string>
+    <string name="remove">REMOVE</string>
+    <string name="layout_row">ROW</string>
+    <string name="layout_grid">GRID</string>
+    <string name="layout_cluster">CLUSTER</string>
+    <string name="gap_value">%1$d cm between frames</string>
+    <string name="place_frames">PLACE FRAMES</string>
+
+    <string name="dialog_new_frame">NEW FRAME</string>
+    <string name="dialog_width">WIDTH</string>
+    <string name="dialog_height">HEIGHT</string>
+    <string name="dialog_drop">HANGER DROP</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="issue_too_wide">Arrangement is wider than the wall. Reduce the gap or remove a frame.</string>
+    <string name="issue_above_ceiling">Arrangement reaches above the ceiling. Lower the eye height or shrink the frames.</string>
+    <string name="issue_over_furniture">Arrangement overlaps the furniture. Raise the eye height or shrink the frames.</string>
+    <string name="issue_nail_off_wall">A nail falls outside the wall. Adjust the frames or the eye height.</string>
+    <string name="issue_off_wall">Move the highlighted frame back onto the wall.</string>
+
+    <string name="game_title">WALL CANVAS</string>
+    <string name="wall_dimensions">%1$d x %2$d cm</string>
+    <string name="floor">FLOOR</string>
+    <string name="eye_label">EYE %1$d CM</string>
+    <string name="readout_spread">SPREAD CM</string>
+    <string name="readout_gap">GAP CM</string>
+    <string name="readout_frames">FRAMES</string>
+    <string name="recentre">RE-CENTRE</string>
+    <string name="calculate_nails">CALCULATE NAILS</string>
+
+    <string name="gameover_title">NAIL MAP</string>
+    <string name="gameover_subtitle">%1$d nails - %2$s</string>
+    <string name="stat_centreline">CENTRELINE</string>
+    <string name="stat_total_spread">TOTAL SPREAD</string>
+    <string name="hanging_order_note">Highest nails first, so lower frames can be lined up to them.</string>
+    <string name="nail_label">NAIL %1$d</string>
+    <string name="nail_position_cm">%1$s cm from left - %2$s cm from floor</string>
+    <string name="nail_position_inch">%1$s in from left - %2$s in from floor</string>
+    <string name="progress_hung">%1$d OF %2$d HUNG</string>
+    <string name="all_nails_hung">ALL NAILS HUNG</string>
+    <string name="nothing_to_hang">NOTHING TO HANG YET</string>
+    <string name="plan_again">PLAN AGAIN</string>
+    <string name="menu">MENU</string>
+
+    <string name="settings_title">EYE HEIGHT</string>
+    <string name="settings_caption">Museum standard is 145 cm to the centre of the picture.</string>
+    <string name="default_gap">DEFAULT GAP</string>
+    <string name="units">UNITS</string>
+    <string name="unit_cm">CM</string>
+    <string name="unit_inch">INCH</string>
+    <string name="reset_defaults">RESET TO DEFAULTS</string>
+
+    <string name="value_cm">%1$s CM</string>
+    <string name="value_inch">%1$s IN</string>
+</resources>

@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "Launcher icon for GalleryWallSpacer"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Soft plaster gallery wall background, warm off-white, subtle vignette"
+    },
+    {
+      "name": "logo",
+      "type": "logo",
+      "prompt": "Gallery wall mark: three aligned picture frames with measure ticks"
+    },
+    {
+      "name": "icon_home",
+      "type": "icon",
+      "prompt": "Home glyph, thin ink stroke, transparent background"
+    },
+    {
+      "name": "icon_pause",
+      "type": "icon",
+      "prompt": "Settings slider glyph, thin ink stroke, transparent background"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Portrait framed artwork, muted ink and coral, transparent background"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Landscape framed artwork, muted ink and coral, transparent background"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Square framed artwork, muted ink and coral, transparent background"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Tall narrow framed artwork, muted ink and coral, transparent background"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Wide framed artwork, muted ink and coral, transparent background"
+    }
+  ]
+}
